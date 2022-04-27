@@ -1,4 +1,24 @@
 
+# Deploy a Docker build Lambda function with AWS CDK
+
+This example will include a FURL ( Lambda Function Url defined in the CDK)
+
+## Attribution
+
+Mostly inspired by:
+
+https://dev.to/wesleycheek/deploy-a-docker-built-lambda-function-with-aws-cdk-fio
+
+by Wesley Cheek
+
+https://github.com/wcheek/CDK_Docker_Lambda
+
+
+
+
+-----------------
+
+
 # Welcome to your CDK Python project!
 
 This is a blank project for CDK development with Python.
